@@ -1,1 +1,1 @@
-au BufRead,BufNewFile BUILD,*.build_def setfiletype=please
+au BufRead,BufNewFile BUILD,*.build_def set filetype=please
