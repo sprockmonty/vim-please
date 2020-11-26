@@ -13,4 +13,4 @@ syn match plzTags "\zs.*\ze="
 hi def link plzTags Tag
 
 syn match plzFunctions "\zs.*\ze("
-hi def link plzTags Function
+hi def link plzFunctions Function
